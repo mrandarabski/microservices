@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Mr Andarabski loans releated products APIs"
+  contactDetails:
+    name: "Sanny Panny - Product Manager"
+    email: "sanny.panny@lvgod.nl"
+  onCallSupport:
+    - (0031) 321-456-7890
+    - (0031) 321-456-7891

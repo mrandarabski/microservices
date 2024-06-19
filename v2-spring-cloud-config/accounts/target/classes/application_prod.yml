@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Lvgod accounts related Production APIs"
+  contactDetails:
+    name: "Princes Ssa -Developer"
+    email: "princes.ssa@lvgod.com"
+  onCallSupport:
+    -(031) 555-123-1266
+    -(031) 555-123-1233

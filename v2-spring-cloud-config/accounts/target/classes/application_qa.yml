@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Lvgod accounts related QA APIs"
+  contactDetails:
+    name: "King Zda -Developer"
+    email: "king.zda@lvgod.com"
+  onCallSupport:
+    -(031) 555-123-1275
+    -(031) 555-123-1289
