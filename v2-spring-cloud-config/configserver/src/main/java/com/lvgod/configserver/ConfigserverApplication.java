@@ -10,6 +10,7 @@ public class ConfigserverApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ConfigserverApplication.class, args);
+        System.out.println("Hi Mr Andarabski the config server is started");
     }
 
 }
